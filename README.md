@@ -14,6 +14,11 @@ pip install hashlib
 python hash.py hola
 ~~~~
 
+<img src="IMG/script.PNG">
+
 Sustituye hola, por la palabra que quieres convertir a sha256
 
 
+## Ejemplo
+
+<img src="IMG/hash.PNG">
